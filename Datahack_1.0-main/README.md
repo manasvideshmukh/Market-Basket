@@ -29,7 +29,7 @@ Our project also includes a static website where we showcase information about t
 ## 👥 Contributors:
 - [Phantom-IN](https://github.com/Phantom-IN)
 - [Dhruvnet](https://github.com/Dhruvnet)
-- [uyaditi](https://github.com/uyaditi)
+- [uyaditi](https://github.com/manasvideshmukh)
 - [musteryasm](https://github.com/musteryasm)
 
 #
